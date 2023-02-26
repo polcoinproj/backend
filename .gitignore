@@ -1,0 +1,11 @@
+.idea
+.vs
+.vscode
+bin
+store
+out
+objbin
+obj
+store
+appsettings.json
+appsettings.Development.json
